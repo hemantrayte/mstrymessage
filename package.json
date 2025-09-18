@@ -13,6 +13,8 @@
     "next": "15.5.3",
     "react": "19.1.0",
     "react-dom": "19.1.0",
+    "react-email": "^4.2.11",
+    "resend": "^6.1.0",
     "zod": "^4.1.9"
   },
   "devDependencies": {
